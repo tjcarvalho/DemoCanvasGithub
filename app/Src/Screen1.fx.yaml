@@ -1,7 +1,7 @@
 Screen1 As screen:
 
     Container1 As groupContainer.manualLayoutContainer:
-        X: =412
+        X: =392
         Y: =252
         ZIndex: =1
 

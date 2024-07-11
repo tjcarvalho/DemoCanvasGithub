@@ -17,7 +17,9 @@ Screen1 As screen:
             ZIndex: =2
 
     Label1 As label:
-        Text: ="Text"
+        Height: =132
+        Text: ="Testing these changes"
+        Width: =325
         X: =40
         Y: =40
         ZIndex: =2

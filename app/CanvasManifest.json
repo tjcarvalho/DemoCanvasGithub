@@ -5,7 +5,7 @@
       "DataflowAnalysisEnabled": true,
       "DataflowAnalysisFlagStateToggledByUser": false
     },
-    "DocVersion": "1.341",
+    "DocVersion": "1.342",
     "MinVersionToLoad": "1.331",
     "MSAppStructureVersion": "2.0"
   },
@@ -117,7 +117,7 @@
     "Id": "a08a6771-8df6-47a3-947b-a6bb063beeee",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "",
-    "ManualOfflineProfileId": null,
+    "ManualOfflineProfileId": "",
     "Name": "Github-integration-demo",
     "OriginatingVersion": "1.341",
     "ParserErrorCount": 0,
